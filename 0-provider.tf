@@ -9,8 +9,8 @@ terraform {
 
 provider "google" {
   # Configuration options
-  project     = "gcp-project-dev-452600"
+  project     = "---Project ID------"
   region      = "us-central1"
   zone        = "us-central1-a"
-  credentials = "gcp-project-dev-452600-8c933e673ad2.json"
+  credentials = "---GCP json Creditials----"
 }
