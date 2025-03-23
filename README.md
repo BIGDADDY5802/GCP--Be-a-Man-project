@@ -1,4 +1,4 @@
-# Terraform GCP build
+# Terraform GCP build VM, VPC, and FireWall
 0. you must have a VS Code (visual studio code)
 
 1. create a GCP account everything is in the preinstallation documentation (assuming everyone created an account)
